@@ -96,12 +96,6 @@ No external libraries required
 👨‍💻 Author
 Created as a fun OOP exercise demonstrating class design, inheritance, and polymorphism in Python.
 
-yaml
-
----
-
-Would you like me to package this with the code into files and upload them for you?
-
 
 
 
